@@ -3,3 +3,7 @@ This repository contains the documentation for the Riso components. The document
 ### [RCI202501 - Riso Github Actions](https://github.com/actions-factory/risotech-github-actions/tree/main?tab=readme-ov-file#riso-tech-github-actions)
 
 - This repository contains the Github Actions reusable actions/workflows.
+
+### [RCI202502 - Django Package Cookiecutter](https://github.com/libs-factory/django-package)
+
+- A modern Django package template using Cookiecutter.
